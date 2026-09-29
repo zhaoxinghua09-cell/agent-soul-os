@@ -1,0 +1,24 @@
+{
+  "name": "agent-soul-os",
+  "owner": {
+    "name": "Steven Zhao",
+    "url": "https://github.com/zhaoxinghua09-cell"
+  },
+  "metadata": {
+    "description": "An operating system for agent identity and memory — soul-bootstrap, memory-layers, soul-audit",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "agent-soul-os",
+      "description": "Give any agent a persistent identity and a disciplined memory: 5-question bootstrap, 3-layer memory protocol, and drift adjudication rules from real production incidents",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/soul-bootstrap",
+        "./skills/memory-layers",
+        "./skills/soul-audit"
+      ]
+    }
+  ]
+}

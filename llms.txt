@@ -1,0 +1,50 @@
+# agent-soul-os
+
+> An operating system for agent identity and memory. Give any AI agent a persistent soul, a disciplined memory, and drift detection — in plain Markdown.
+>
+> 给 AI Agent 的身份与记忆操作系统：持久身份、纪律化记忆、漂移裁决——纯 Markdown。
+
+## What is this
+
+Three installable agent skills (open SKILL.md format, cross-agent):
+
+- **soul-bootstrap** — a 5-question interview that generates a complete identity kit (`SOUL.md` + `IDENTITY.md` + `USER.md`) with strict role separation
+- **memory-layers** — a 3-layer memory protocol: what goes where, who may write, when to distill, which layer to search first
+- **soul-audit** — identity drift detection plus adjudication rules distilled from real production incidents (e.g. "injection beats disk")
+
+## Install
+
+### Claude Code (plugin)
+
+```
+/plugin marketplace add zhaoxinghua09-cell/agent-soul-os
+/plugin install agent-soul-os@agent-soul-os
+```
+
+### Any other agent (Codex / Cursor / Gemini CLI / OpenClaw)
+
+Copy the skill folders into your agent's skills directory:
+
+```bash
+git clone https://github.com/zhaoxinghua09-cell/agent-soul-os.git
+cp -r agent-soul-os/skills/* /path/to/your/agent/skills/
+```
+
+### Or tell your agent to do it
+
+```
+Install agent-soul-os from github.com/zhaoxinghua09-cell/agent-soul-os and run soul-bootstrap on me.
+```
+
+## Key files
+
+- skills/soul-bootstrap/SKILL.md — identity kit generator (5-question interview)
+- skills/memory-layers/SKILL.md — 3-layer memory protocol with write-ownership table
+- skills/soul-audit/SKILL.md — drift checklist + 5 adjudication rules
+- templates/ — SOUL / IDENTITY / USER fill-in templates
+- references/ — memory protocol rationale, anonymized drift incident cases
+- examples/demo-agent/ — a complete worked example (fictional agent "Pip")
+
+## License
+
+Apache-2.0 for code and templates. Prose (methodology descriptions, reference docs) is reserved — see NOTICE. Not a registered trademark.

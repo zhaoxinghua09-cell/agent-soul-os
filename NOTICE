@@ -1,0 +1,21 @@
+NOTICE — agent-soul-os
+
+Copyright 2026 Steven Zhao·China. All rights reserved where not otherwise granted.
+
+License layering:
+1. Code, configuration, and templates in this repository are licensed under
+   Apache-2.0 (see LICENSE).
+2. Methodology descriptions, reference documents, and other prose
+   (including the adjudication rules narrative in skills/soul-audit/ and
+   references/) are NOT covered by the Apache-2.0 code license. You may quote
+   them with attribution; wholesale redistribution as your own methodology is
+   not granted.
+
+Name status: "agent-soul-os" is not a registered trademark. Use of the name
+does not imply endorsement.
+
+Prior art and inspiration: the SOUL.md convention popularized by the OpenClaw
+community; aeonfun/soul.md; obra/superpowers; the open agent-skills (SKILL.md)
+format. This project's identity-continuity, memory-layering, and drift
+adjudication content is original to this repository; incident cases in
+references/ are anonymized.

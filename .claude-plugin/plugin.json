@@ -1,0 +1,27 @@
+{
+  "name": "agent-soul-os",
+  "version": "1.0.0",
+  "description": "An operating system for agent identity and memory: soul-bootstrap (5-question identity kit generator), memory-layers (3-layer memory protocol with clear write ownership), soul-audit (identity drift detection with adjudication rules from real incidents). Cross-agent, zero dependencies, pure Markdown.",
+  "author": {
+    "name": "Steven Zhao",
+    "url": "https://github.com/zhaoxinghua09-cell"
+  },
+  "homepage": "https://github.com/zhaoxinghua09-cell/agent-soul-os",
+  "repository": "https://github.com/zhaoxinghua09-cell/agent-soul-os",
+  "license": "Apache-2.0",
+  "keywords": [
+    "agent",
+    "identity",
+    "soul",
+    "memory",
+    "soul-md",
+    "persistence",
+    "drift-detection",
+    "skills"
+  ],
+  "skills": [
+    "./skills/soul-bootstrap",
+    "./skills/memory-layers",
+    "./skills/soul-audit"
+  ]
+}

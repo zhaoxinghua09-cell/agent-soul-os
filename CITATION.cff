@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use agent-soul-os, please cite it as below."
+title: "agent-soul-os: an operating system for agent identity and memory"
+authors:
+  - family-names: Zhao
+    given-names: Xinghua (Steven)
+    website: "https://github.com/zhaoxinghua09-cell"
+type: software
+repository-code: "https://github.com/zhaoxinghua09-cell/agent-soul-os"
+license: Apache-2.0
+keywords:
+  - agent
+  - identity
+  - memory
+  - soul-md
+  - skills

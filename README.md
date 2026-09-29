@@ -60,6 +60,17 @@ The question every multi-account, multi-machine agent owner eventually faces. Sh
 Two ways in. **The plugin** installs the whole set as a managed bundle that updates when we ship. **The copy** puts editable Markdown files in your project, so you can hack on them.
 
 <details open>
+<summary><strong>Any agent (skills CLI)</strong></summary>
+
+```bash
+npx skills add zhaoxinghua09-cell/agent-soul-os
+```
+
+Installs all three skills in one shot — works with Claude Code, Codex, Cursor, Gemini CLI, Copilot, Windsurf, Cline, OpenClaw and more.
+
+</details>
+
+<details>
 <summary><strong>Claude Code (plugin)</strong></summary>
 
 ```

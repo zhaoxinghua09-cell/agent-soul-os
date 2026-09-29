@@ -52,9 +52,20 @@
 
 ## 安装（30 秒上手）
 
-两种进法：**插件**方式整套装、随我们更新；**复制**方式拿到可改的 Markdown 文件，随你魔改。
+三种进法：**skills CLI** 一条命令全家桶；**插件**方式整套装、随我们更新；**复制**方式拿到可改的 Markdown 文件，随你魔改。
 
 <details open>
+<summary><strong>任意 Agent（skills CLI）</strong></summary>
+
+```bash
+npx skills add zhaoxinghua09-cell/agent-soul-os
+```
+
+一次装齐三个 skill——Claude Code、Codex、Cursor、Gemini CLI、Copilot、Windsurf、Cline、OpenClaw 通吃。
+
+</details>
+
+<details>
 <summary><strong>Claude Code（插件）</strong></summary>
 
 ```

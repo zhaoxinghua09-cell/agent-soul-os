@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/social-preview.png" alt="agent-soul-os — 给 AI Agent 的身份与记忆操作系统" width="100%">
+
 # agent-soul-os
 
 **你的 AI 每次开会话都失忆。60 秒修好。**

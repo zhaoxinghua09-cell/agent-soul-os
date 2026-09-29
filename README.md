@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/social-preview.png" alt="agent-soul-os — an operating system for agent identity and memory" width="100%">
+
 # agent-soul-os
 
 **Your agent forgets who it is every session. Fix that in 60 seconds.**

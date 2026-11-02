@@ -130,7 +130,7 @@ Standing on the shoulders of: the **OpenClaw** community (the `SOUL.md` conventi
 
 ## License
 
-© 2026 Steven Zhao·China. All rights reserved where not otherwise granted.
+© 2026 赵兴华 / Steven Zhao (ORCID 0009-0001-0512-1237). All rights reserved.
 
 - Code & templates: **Apache-2.0** (see [LICENSE](LICENSE)). The prose — methodology descriptions and reference documents — is **not** covered by the code license; quote with attribution (see [NOTICE](NOTICE)).
 - "agent-soul-os" is not a registered trademark.
@@ -152,7 +152,7 @@ Standing on the shoulders of: the **OpenClaw** community (the `SOUL.md` conventi
 ## Rights & Attribution 权属宣告
 
 ```
-© 2026 赵兴华 / Steven Zhao·China (ORCID 0009-0001-0512-1237). All rights reserved.
+© 2026 赵兴华 / Steven Zhao (ORCID 0009-0001-0512-1237). All rights reserved.
 理论署名 (attribution) : LGD（Lifecycle Governance Doctrine / 全程治理论）— SynomosAI initiative
 名称状态 (name status)  : "SynomosAI" / "MedXpert" — 未申请实体注册、未申请商标注册
                         (not a registered legal entity; no trademark registered)
